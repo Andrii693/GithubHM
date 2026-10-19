@@ -1,2 +1,3 @@
-my first GitHub repositorymy first GitHub repository
+my first GitHub repository
+University: PJATK
 Student ID: s37693
